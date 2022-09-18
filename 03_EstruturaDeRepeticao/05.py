@@ -27,5 +27,7 @@ após {ano} anos.
         continue
     else:
         repetir == 'n'
-        print('''\nObrigado!''')
+        print(f'''
+        Obrigado!
+        ''')
         break
